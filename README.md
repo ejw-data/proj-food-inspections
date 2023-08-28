@@ -34,3 +34,12 @@ Additional outcomes of this project could include:
 *  Recommendations about how food services can aid to reduce food inspection failures, how risk assessment could be modified to achieve better food risk metrics, and whether bias are built into the inspection systems.  
 
 
+
+## Tasks
+- [ ] Since datasets are too large to store on github, create a script that downloads files to the data folder
+- [ ] Create script that organizes the data into consistent features
+- [ ] Create script that summarizes data for each restaurant as new features  
+- [ ] Use the geoapify api to find additional business information - may need to determine method to remain within API query limits
+- [ ] Test classification models to determine key features for pass/fail inspection metric
+- [ ] Perform NLP model like a sentiment analysis to incorporate city complaint and website reviews as a feature in the model  
+- [ ] Currently no Regression modeling plans have been made but re-evaluate this later in the project as well as Clustering applications
