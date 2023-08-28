@@ -1,6 +1,12 @@
 # proj-food-inspections  
 
-## Objective
+Author:  Erin James Wills - ejw.data@gmail.com  
+
+![](./images/inspection-banner.png)  
+
+<br>
+
+## Overview 
 In the past month, I saw the food inspection dataset from the City of Chicago Data Portal.  I felt like this dataset has potential to be interesting since it has a broad range of features and data that could be enhanced with additional data resources.  Since the data is specific to permitting, the business names, ids, and addresses would largely be accurate due to the nature of this information being needed by the general public.   
 
 The initial goal of this project is to determine the following:
