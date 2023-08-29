@@ -44,7 +44,7 @@ Additional outcomes of this project could include:
 ## Tasks
 - [x] Since datasets are too large to store on github, create a script that downloads files to the data folder
 - [x] Create script that organizes the data into consistent features
-- [ ] Create script that summarizes data for each restaurant as new features  
+- [x] Create script that summarizes data for each restaurant as new features  
 - [ ] Use the geoapify api to find additional business information - may need to determine method to remain within API query limits
 - [ ] Test classification models to determine key features for pass/fail inspection metric
 - [ ] Perform NLP model like a sentiment analysis to incorporate city complaint and website reviews as a feature in the model  
