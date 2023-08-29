@@ -2,6 +2,9 @@
 .DS_Store
 desktop.ini
 
+# Ignored folder
+archive/
+
 # Large files
 2022-12-05_All_County.xlsx
 all_licensed_businesses.csv

@@ -42,8 +42,8 @@ Additional outcomes of this project could include:
 
 
 ## Tasks
-- [ ] Since datasets are too large to store on github, create a script that downloads files to the data folder
-- [ ] Create script that organizes the data into consistent features
+- [x] Since datasets are too large to store on github, create a script that downloads files to the data folder
+- [x] Create script that organizes the data into consistent features
 - [ ] Create script that summarizes data for each restaurant as new features  
 - [ ] Use the geoapify api to find additional business information - may need to determine method to remain within API query limits
 - [ ] Test classification models to determine key features for pass/fail inspection metric
