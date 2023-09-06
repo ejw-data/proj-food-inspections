@@ -47,6 +47,7 @@ Additional outcomes of this project could include:
 - [x] Create script that summarizes data for each restaurant as new features  
 - [x] Reduce the number of queries needed to find Chicago businesses to stay within Geoapify API query limits
 - [ ] Use the geoapify api to find additional business information
-- [ ] Test classification models to determine key features for pass/fail inspection metric
+- [x] Test classification models to determine key features for pass/fail inspection metric  
+- [ ] Evaluate model with classification report and AUC/ROC curves
 - [ ] Perform NLP model like a sentiment analysis to incorporate city complaint and website reviews as a feature in the model  
 - [ ] Currently no Regression modeling plans have been made but re-evaluate this later in the project as well as Clustering applications
