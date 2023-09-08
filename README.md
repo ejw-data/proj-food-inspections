@@ -6,8 +6,12 @@ Author:  Erin James Wills - ejw.data@gmail.com
 
 <br>
 
+```
+This project is in development.  Key parts have been finished but ongoing tasks have been planned.  
+```
+
 ## Overview 
-In the past month, I saw the food inspection dataset from the City of Chicago Data Portal.  I felt like this dataset has potential to be interesting since it has a broad range of features and data that could be enhanced with additional data resources.  Since the data is specific to permitting, the business names, ids, and addresses would largely be accurate due to the nature of this information being needed by the general public.   
+In the past month (Aug 2023), I saw the food inspection dataset from the City of Chicago Data Portal.  I felt like this dataset has potential to be interesting since it has a broad range of features and data that could be enhanced with additional data resources.  Since the data is specific to permitting, the business names, ids, and addresses would largely be accurate due to the nature of this information being needed by the general public.   
 
 The initial goal of this project is to determine the following:
 * Are there any unusual ways that restaurants are identified  
@@ -51,3 +55,6 @@ Additional outcomes of this project could include:
 - [ ] Evaluate model with classification report and AUC/ROC curves
 - [ ] Perform NLP model like a sentiment analysis to incorporate city complaint and website reviews as a feature in the model  
 - [ ] Currently no Regression modeling plans have been made but re-evaluate this later in the project as well as Clustering applications
+
+
+## Current Results  
